@@ -1,21 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import foto from './foto.jpg'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={foto} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          ALONDRA CARRILLO CELIS - PARCIAL 2
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://utd.edu.mx/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          UNIVERSIDAD TECNOLÓGICA DE DURANGO - CLICK PARA VISITAR EL SITIO
         </a>
       </header>
     </div>
