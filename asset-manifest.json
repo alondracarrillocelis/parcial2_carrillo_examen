@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/alondracarrillocelis/parcial2_carrillo_examen.git/static/css/main.f855e6bc.css",
-    "main.js": "/alondracarrillocelis/parcial2_carrillo_examen.git/static/js/main.001734f6.js",
-    "static/js/453.815fd387.chunk.js": "/alondracarrillocelis/parcial2_carrillo_examen.git/static/js/453.815fd387.chunk.js",
-    "static/media/foto.jpg": "/alondracarrillocelis/parcial2_carrillo_examen.git/static/media/foto.369781a0971ae55d13ce.jpg",
-    "index.html": "/alondracarrillocelis/parcial2_carrillo_examen.git/index.html",
-    "main.f855e6bc.css.map": "/alondracarrillocelis/parcial2_carrillo_examen.git/static/css/main.f855e6bc.css.map",
-    "main.001734f6.js.map": "/alondracarrillocelis/parcial2_carrillo_examen.git/static/js/main.001734f6.js.map",
-    "453.815fd387.chunk.js.map": "/alondracarrillocelis/parcial2_carrillo_examen.git/static/js/453.815fd387.chunk.js.map"
+    "main.css": "/parcial2_carrillo_examen/static/css/main.f855e6bc.css",
+    "main.js": "/parcial2_carrillo_examen/static/js/main.b38347bb.js",
+    "static/js/453.815fd387.chunk.js": "/parcial2_carrillo_examen/static/js/453.815fd387.chunk.js",
+    "static/media/foto.jpg": "/parcial2_carrillo_examen/static/media/foto.369781a0971ae55d13ce.jpg",
+    "index.html": "/parcial2_carrillo_examen/index.html",
+    "main.f855e6bc.css.map": "/parcial2_carrillo_examen/static/css/main.f855e6bc.css.map",
+    "main.b38347bb.js.map": "/parcial2_carrillo_examen/static/js/main.b38347bb.js.map",
+    "453.815fd387.chunk.js.map": "/parcial2_carrillo_examen/static/js/453.815fd387.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.001734f6.js"
+    "static/js/main.b38347bb.js"
   ]
 }
