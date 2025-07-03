@@ -2,7 +2,7 @@
   "name": "parcial2_carrillo",
   "version": "0.1.0",
   "private": true,
-    "homepage":"https://github.com/alondracarrillocelis/parcial2_carrillo_examen.git",
+    "homepage":"https://alondracarrillocelis.github.io/parcial2_carrillo_examen/",
 
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
